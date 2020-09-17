@@ -13,3 +13,7 @@ def batch_badge_creator(names)
   badges
 end
 
+def assign_rooms(names)
+  rooms = [1, 2, 3, 4, 5, 6, 7]
+  
+end
